@@ -1,7 +1,7 @@
-### Oi, seja muito bem-vindo ao meu perfil!
+### Seja muito bem-vindo ao meu perfil!
 
 
-<div>
+<div align="center">
   <a href="https://github.com/SwattPK">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SwattPK&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwattPK&layout=compact&langs_count=7&theme=dark"/>
